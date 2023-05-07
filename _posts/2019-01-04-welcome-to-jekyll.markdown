@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "3 Must-Read Books by Edgar Allan Poe"
-date:   2023-07-05 11:08:03 -0800
+date:   2023-05-07 11:08:03 -0800
 categories: edgar allan poe
 ---
 Edgar Allan Poe is considered one of the most influential and popular writers in American literature. His works of poetry and fiction are known for their dark and gothic themes, vivid imagery, and intricate narratives. Here are three must-read books by Edgar Allan Poe:

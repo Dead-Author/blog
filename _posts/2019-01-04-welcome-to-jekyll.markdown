@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-01-04 11:08:03 -0800
-categories: jekyll update
+title:  "3 Must-Read Books by Edgar Allan Poe"
+date:   2023-07-05 11:08:03 -0800
+categories: edgar allan poe
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Edgar Allan Poe is considered one of the most influential and popular writers in American literature. His works of poetry and fiction are known for their dark and gothic themes, vivid imagery, and intricate narratives. Here are three must-read books by Edgar Allan Poe:
+1. "The Raven and Other Poems"
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Published in 1845, "The Raven and Other Poems" is a collection of Poe's most famous poems, including "The Raven," "Annabel Lee," and "The Bells." These poems showcase Poe's masterful use of language, his obsession with death and loss, and his ability to create haunting atmospheres that stay with readers long after they've finished reading.
+2. "The Murders in the Rue Morgue and Other Tales"
 
-Jekyll also offers powerful support for code snippets:
+"The Murders in the Rue Morgue and Other Tales" is a collection of short stories that includes some of Poe's most iconic works, such as "The Murders in the Rue Morgue," "The Gold Bug," and "The Masque of the Red Death." These stories showcase Poe's skill in crafting intricate plots, his ability to create suspense and horror, and his exploration of the human psyche.
+3. "The Narrative of Arthur Gordon Pym of Nantucket"
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+"The Narrative of Arthur Gordon Pym of Nantucket" is Poe's only complete novel, published in 1838. The story follows the adventures of a young man named Arthur Gordon Pym as he stows away on a ship bound for the South Seas. The novel explores themes of survival, betrayal, and the unknown, and is considered one of the first works of American literature to use the sea as a metaphor for the human experience.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+In conclusion, these three books by Edgar Allan Poe are essential reads for anyone interested in American literature, horror, or the gothic genre. They showcase Poe's unique voice and style, and are sure to leave a lasting impression on readers.
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
